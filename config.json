@@ -1,0 +1,44 @@
+{
+  "FILTERING": {
+    "CONTENT": "homebrew",
+    "SORT": {
+      "type": "name",
+      "ascending": true
+    },
+    "REGIONS": [
+      "Asia",
+      "Europe",
+      "Japan",
+      "USA"
+    ]
+  },
+  "PREFERENCES": {
+    "DOWNLOADS": {
+      "directDownload": false,
+      "downloadPath": "/user/data/FPKGi/Downloads/",
+      "installAfter": true,
+      "deleteAfter": true,
+      "deleteOnCancel": true
+    },
+    "APPLICATION": {
+      "background_uri": "https://raw.githubusercontent.com/StandVideo/Spotify-All-Version-PS4-PS5/refs/heads/HTML/BG.jpg",
+      "backgroundMusic": true,
+      "populateViaWeb": true,
+      "enableUpdates": true
+    },
+    "CONTENT_URLS": {
+      "PS1": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/PS1.json",
+      "PS2": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/PS2.json",
+      "PSP": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/PSP.json",
+      "PS5": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/PS5.json",
+      "games": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/GAMES.json",
+      "apps": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/APPS.json",
+      "updates": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/UPDATES.json",
+      "DLC": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/DLC.json",
+      "demos": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/DEMOS.json",
+      "homebrew": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/HOMEBREW.json",
+      "emulators": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/EMULATORS.json",
+      "themes": "https://ia903205.us.archive.org/27/items/stand75019_20260514_1201/THEMES.json"
+    }
+  }
+}
