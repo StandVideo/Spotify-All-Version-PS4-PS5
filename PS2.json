@@ -1,0 +1,754 @@
+{
+  "DATA": {
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_God%20Of%20War%20SCES53133_v1.00.pkg": {
+      "name": "God Of War PS2",
+      "title_id": "SCES53133",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 7077232640,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Curse%20-%20The%20Eye%20Of%20Isis%20SLES51934_v1.00.pkg": {
+      "name": "Curse - The Eye Of Isis PS2",
+      "title_id": "SLES51934",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 517603328,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Prince%20Of%20Persia%20-%20Sands%20Of%20Time%20SLUS20743_v1.00.pkg": {
+      "name": "Prince Of Persia - Sands Of Time PS2",
+      "title_id": "SLUS20743",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2158690304,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Need%20For%20Speed%20-%20Most%20Wanted%20SLUS21351_v1.00.pkg": {
+      "name": "Need For Speed - Most Wanted PS2",
+      "title_id": "SLUS21351",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 3742892032,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Urban%20Freestyle%20Soccer%20SLES50849_v1.00.pkg": {
+      "name": "Urban Freestyle Soccer PS2",
+      "title_id": "SLES50849",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 1326186496,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Rayman%202%20Revolution%20SLUS20138_v1.00.pkg": {
+      "name": "Rayman 2 Revolution PS2",
+      "title_id": "SLUS20138",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2959540224,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Mortal%20Kombat%20-%20Shaolin%20Monks%20SLUS21087_v1.00.pkg": {
+      "name": "Mortal Kombat - Shaolin Monks PS2",
+      "title_id": "SLUS21087",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 3536912384,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Persona%204%20-%20Shin%20Megami%20Tensei%20SLUS21782_v1.00.pkg": {
+      "name": "Persona 4 - Shin Megami Tensei PS2",
+      "title_id": "SLUS21782",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2974941184,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_The%20Thing%20SLUS20371_v1.00.pkg": {
+      "name": "The Thing PS2",
+      "title_id": "SLUS20371",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 603717632,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_The%20Sopranos%20Road%20To%20Respect%20SLUS21388_v1.00.pkg": {
+      "name": "The Sopranos Road To Respect PS2",
+      "title_id": "SLUS21388",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 4395433984,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Teenage%20Mutant%20Ninja%20Turtles%20-%20Mutant%20Melee%20SLES53127_v1.00.pkg": {
+      "name": "Teenage Mutant Ninja Turtles - Mutant Melee PS2",
+      "title_id": "SLES53127",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2890072064,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_50Cent%20-%20Bulletproof%20SLES53734_v1.00.pkg": {
+      "name": "50Cent - Bulletproof PS2",
+      "title_id": "SLES53734",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 5953224704,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Cowboy%20Bebop%20-%20Tsuitou%20no%20Yakyoku%20SLPS25550_v1.00.pkg": {
+      "name": "Cowboy Bebop - Tsuitou no Yakyoku PS2",
+      "title_id": "SLPS25550",
+      "region": "JAP",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 3582984192,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Rumble%20Roses%20SLES52535_v1.00.pkg": {
+      "name": "Rumble Roses PS2",
+      "title_id": "SLES52535",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 1486553088,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Smash%20Court%20Tennis%20Pro%20Tournament%20SCES50810_v1.00.pkg": {
+      "name": "Smash Court Tennis Pro Tournament PS2",
+      "title_id": "SCES50810",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 595918848,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Home%20Alone%20SLES54469_v1.00.pkg": {
+      "name": "Home Alone PS2",
+      "title_id": "SLES54469",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 83623936,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Rumble%20Racing%20SLUS20174_v1.00.pkg": {
+      "name": "Rumble Racing PS2",
+      "title_id": "SLUS20174",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 453378048,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Tom%20And%20Jerry%20-%20War%20Of%20The%20Whiskers%20SLUS20355_v1.00.pkg": {
+      "name": "Tom And Jerry - War Of The Whiskers PS2",
+      "title_id": "SLUS20355",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 606994432,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_24%20The%20Game%20SLUS21268_v1.00.pkg": {
+      "name": "24 - The Game PS2",
+      "title_id": "SLUS21268",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 3721134080,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Hokuto%20No%20Ken%20SLPM66660_v1.00.pkg": {
+      "name": "Hokuto No Ken PS2",
+      "title_id": "SLPM66660",
+      "region": "JAP",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 4642504704,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Family%20Guy%20-%20The%20Video%20Game%20SLES54126_v1.00.pkg": {
+      "name": "Family Guy - The Video Game PS2",
+      "title_id": "SLES54126",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2652241920,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Peter%20Jackson%E2%80%99s%20King%20Kong%20-%20The%20Official%20Game%20Of%20The%20Movie%20CUSA53280_v1.00.pkg": {
+      "name": "Peter Jackson's King Kong - The Official Game Of The Movie PS2",
+      "title_id": "CUSA53280",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 1569456128,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Operation%20Winback%20SLES50155_v1.00.pkg": {
+      "name": "Operation Winback PS2",
+      "title_id": "SLES50155",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 218759168,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_One%20Piece%20-%20Fighting%20For%20One%20Piece%20SLPS25545_v1.00.pkg": {
+      "name": "One Piece - Fighting For One Piece PS2",
+      "title_id": "SLPS25545",
+      "region": "JAP",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 308936704,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Musashi%20Samurai%20Legend%20SLUS20983_v1.00.pkg": {
+      "name": "Musashi Samurai Legend PS2",
+      "title_id": "SLUS20983",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 1607860224,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Looney%20TunesSpace%20Race%20SLES50487_v1.00.pkg": {
+      "name": "Looney TunesSpace Race PS2",
+      "title_id": "SLES50487",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 352059392,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_King%20Of%20Fighters%2098%20-%20The%20Ultimate%20Match%20SLUS21816_v1.00.pkg": {
+      "name": "King Of Fighters 98 - The Ultimate Match PS2",
+      "title_id": "SLUS21816",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2824601600,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Iron%20Man%20CUSA56870_v1.00.pkg": {
+      "name": "Iron Man PS2",
+      "title_id": "CUSA56870",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2237202432,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Garfield%202%20SLES54172_v1.00.pkg": {
+      "name": "Garfield 2 PS2",
+      "title_id": "SLES54172",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 344850432,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Fallout%20Brotherhood%20Of%20Steel%20SLUS20539_v1.00.pkg": {
+      "name": "Fallout Brotherhood Of Steel PS2",
+      "title_id": "SLUS20539",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 3100246016,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Dawn%20Of%20Mana%20SLUS21574_v1.00.pkg": {
+      "name": "Dawn Of Mana PS2",
+      "title_id": "SLUS21574",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2770468864,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Darkwatch%20SLUS21042_v1.00.pkg": {
+      "name": "Darkwatch PS2",
+      "title_id": "SLUS21042",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 3100180480,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Dragon%20Ball%20Z%20-%20Sagas%20SLUS20874%20_v1.00.pkg": {
+      "name": "Dragon Ball Z - Sagas PS2",
+      "title_id": "SLUS20874",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 1246887936,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Crash%20Bandicoot%20-%20The%20Wrath%20of%20Cortex%20SLES50386_v1.00.pkg": {
+      "name": "Crash Bandicoot - The Wrath Of Cortex PS2",
+      "title_id": "SLES50386",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 421593088,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Castlevania%20-%20Curse%20Of%20Dakness%20SLUS21168_v1.00.pkg": {
+      "name": "Castlevania - Curse Of Dakness PS2",
+      "title_id": "SLUS21168",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 3554344960,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Capcom%20Fighting%20Jam%20SLPM65794_v1.00.pkg": {
+      "name": "Capcom Fighting Jam PS2",
+      "title_id": "SLPM65794",
+      "region": "JAP",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 287637504,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Crash%20Tag%20Team%20Racing%20SLUS21191_v1.00.pkg": {
+      "name": "Crash Tag Team Racing PS2",
+      "title_id": "SLUS21191",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2458517504,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Inspector%20Gadget%20Mad%20Ribots%20Invasion%20SLES51248_v1.00.pkg": {
+      "name": "Inspector Gadget Mad Ribots Invasion PS2",
+      "title_id": "SLES51248",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 180944896,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Gadget%20And%20The%20Gadgetinis%20SLES52846_v1.00.pkg": {
+      "name": "Gadget And The Gadgetinis PS2",
+      "title_id": "SLES52846",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 208404480,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Contra%20Shattered%20Soldier%20SLUS20306_v1.00.pkg": {
+      "name": "Contra Shattered Soldier PS2",
+      "title_id": "SLUS20306",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 607387648,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Clock%20Tower%203%20SLUS20633_v1.00.pkg": {
+      "name": "Clock Tower 3 PS2",
+      "title_id": "SLUS20633",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 3433365504,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Cold%20Fear%20FEAR21047_v1.00.pkg": {
+      "name": "Cold Fear PS2",
+      "title_id": "FEAR21047",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 3589931008,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_%20Ico%20SCES50760_v1.00.pkg": {
+      "name": "Ico PS2",
+      "title_id": "SCES50760",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 783417344,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+  "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Woody%20Woodpecker%20SLES50612_v1.00.pkg": {
+      "name": "Woody Woodpecker PS2",
+      "title_id": "SLES50612",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 443547648,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_The%20Simpsons%20-%20Hit%20And%20Run%20SLES51897_v1.00.pkg": {
+      "name": "The Simpsons - Hit And Run PS2",
+      "title_id": "SLES51897",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 1468989440,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_The%20Flintstones%20Bedrock%20Racing%20SLES54473_v1.00.pkg": {
+      "name": "The Flintstones Bedrock Racing PS2",
+      "title_id": "SLES54473",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 107020288,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Tekken%E2%80%99s%20Nina%20Willams%20In%20-%20Death%20By%20Degrees%20SLUS20934_v1.00.pkg": {
+      "name": "Tekken's Nina Willams In - Death By Degrees PS2",
+      "title_id": "SLUS20934",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2975072256,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Batman%20Vengeance%20SLES50356_v1.00.pkg": {
+      "name": "Batman Vengeance PS2",
+      "title_id": "SLES50356",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 762511360,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Area%2051%20SLES52570_v1.00.pkg": {
+      "name": "Area 51 PS2",
+      "title_id": "SLES52570",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 3543728128,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Alias%20SLES51821_v1.00.pkg": {
+      "name": "Alias PS2",
+      "title_id": "SLES51821",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2418606080,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+   "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Motor%20Storm%20-%20Arctic%20Edge%20SCES55573_v1.00.pkg": {
+      "name": "Motor Storm - Arctic Edge PS2",
+      "title_id": "SCES55573",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 1588002816,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+   "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Reservoir%20Dogs%20SLUS21479_v1.00.pkg": {
+      "name": "Reservoir Dogs PS2",
+      "title_id": "SLUS21479",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2288320512,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+   "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Spawn-Armageddon%20SLES52326_v1.00.pkg": {
+      "name": "Spawn - Armageddon PS2",
+      "title_id": "SLES52326",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 1897267200,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+   "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Max%20Payne%202%20SLES51954_v1.00.pkg": {
+      "name": "Max Payne 2 PS2",
+      "title_id": "SLES51954",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 1364000768,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Dragon%20Quest%20VIII%20-%20L%27odyssee%20Du%20Roi%20Maudit%20SLUS21207_v1.00.pkg": {
+      "name": "Dragon Quest VIII - L'odyssee Du Roi Maudit PS2",
+      "title_id": "SLUS21207",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 4098424832,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Dragon%20Ball%20Budokai%20Tenkaichi%203%20SLES54945_v1.00.pkg": {
+      "name": "Dragon Ball Z Budokai Tenkaichi 3 PS2",
+      "title_id": "SLES54945",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 3242328064,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+     "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Asterix.%26.Obelix.XXL%20SLES51838_v1.00.pkg": {
+      "name": "Asterix & Obelix XXL PS2",
+      "title_id": "SLES51838",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 583729152,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+     "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Naruto%20Shippuden%20Ultimate%20Ninja%205%20SLES55605_v1.00.pkg": {
+      "name": "Naruto Shippuden Ultimate Ninja 5 PS2",
+      "title_id": "SLES55605",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 1762131968,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Naruto%20Ultimate%20Ninja%203%20SLES55237_v1.00.pkg": {
+      "name": "Naruto Shippuden Ultimate Ninja 3 PS2",
+      "title_id": "SLES55237",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 4062707712,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Quake%203%20SLUS20167_v1.00.pkg": {
+      "name": "Quake 3 PS2",
+      "title_id": "SLES20167",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 571015168,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Shinobi%20SCES51428_v1.00.pkg": {
+      "name": "Shinobi PS2",
+      "title_id": "SLES51428",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 1470627840,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+     "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Capcom%20vs.%20SNK%202%20-%20Mark%20of%20the%20Millennium%202001%20SLES50541_v1.00.pkg": {
+      "name": "Capcom Vs SNK 2 - Mark Of The Millennium 2001 PS2",
+      "title_id": "SLES50541",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 246677504,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Dragon%20Ball%20Z%20Budokai%20Tenkaichi%202%20SCES95490_v1.00.pkg": {
+      "name": "Dragon Ball Z Budokai Tenkaichi 2 PS2",
+      "title_id": "SCES95490",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2046361600,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Gran%20turismo%204%20SLES97328_v1.00.pkg": {
+      "name": "Gran Turismo 4 PS2",
+      "title_id": "SLES97328",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 4879482880,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Killer%207%20SLUS21154_v1.00.pkg": {
+      "name": "Killer 7 PS2",
+      "title_id": "SLUS21154",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2706571264,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Manhunt%202%20PLAY95490_v1.00.pkg": {
+      "name": "Manhunt 2 PS2",
+      "title_id": "PLAY95490",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2436235264,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_OutRun%202006%20-%20Coast%202%20Coast%20SLES53998_v1.00.pkg": {
+      "name": "Outrun 2006 - Coast 2 Coast PS2",
+      "title_id": "SLES53998",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 936640512,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_The%20Matrix%20-%20Path%20of%20Neo%20PLAY98000_v1.00.pkg": {
+      "name": "The Matrix - Path Of Neo PS2",
+      "title_id": "PLAY98000",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 3544121344,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Van%20Helsing%20SLES51908_v1.00.pkg": {
+      "name": "Van Helsing PS2",
+      "title_id": "SLES51908",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 1833304064,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+     "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Enter%20The%20Matrix%20SLES51203_v1.00.pkg": {
+      "name": "Enter The Matrix PS2",
+      "title_id": "SLES51203",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 3225616384,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Dragon%20Ball%20Z%20Budokai%20Tenkaichi%204%20SLUS21978_v0.14b14.pkg": {
+      "name": "Dragon Ball Z Budokai Tenkaichi 4 PS2",
+      "title_id": "SLUS21978",
+      "region": "USA",
+      "version": "0.14B14",
+      "release": "18-11-2014",
+      "size": 3860791296,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Crazy%20Taxi%20SLES50215_v1.00.pkg": {
+      "name": "Crazy Taxi PS2",
+      "title_id": "SLES50215",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 117964800,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Dragon%20Ball%20Z%20-%20Budokai%203%20SLUS20998_v1.00.pkg": {
+      "name": "Dragon Ball Z Budokai 3 PS2",
+      "title_id": "SLUS20998",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 1792212992,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Tekken%204%20SLUS20328_v1.00.pkg": {
+      "name": "Tekken 4 PS2",
+      "title_id": "SLUS20328",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 2208628736,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS2_Tekken%205%20SLUS21059_v1.00.pkg": {
+      "name": "Tekken 5 PS2",
+      "title_id": "SLUS21059",
+      "region": "USA",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 4235395072,
+      "min_fw": "9.00",
+      "cover_url": ""
+    }
+  }
+}

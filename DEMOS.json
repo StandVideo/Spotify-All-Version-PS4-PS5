@@ -1,0 +1,54 @@
+{
+  "DATA": {
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/Video_Hokuto_no_ken_Film_VF%20KENS10000_v1.00.pkg": {
+      "name": "Hokuto No Ken Film VF Video",
+      "title_id": "KENS10000",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 4647419904,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/Video_Dragon%20Ball%20Daima%20VOSTFR%20DAIM00000_v1.00.pkg": {
+      "name": "Dragon Ball Daima VOSTFR Video",
+      "title_id": "DAIM00000",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 7468548096,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/Video_Dragon%20Ball%20Z%20Integrale%20VF%20DDBZ00000_v1.00.pkg": {
+      "name": "Dragon Ball Z Integrale VF Video",
+      "title_id": "DDBZ00000",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 13626048512,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/Video_Saint%20Seiya%20Films%20VF%20SAIN10000_v1.00.pkg": {
+      "name": "Saint Seiya Films VF Video",
+      "title_id": "SAIN10000",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 6641287168,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+      "https://ia600405.us.archive.org/3/items/stand75019_20260514/Video_Saint%20Seiya%20Soul%20of%20Gold%20VF%20SOUL00000_v1.00.pkg": {
+      "name": "Saint Seiya Soul Of Gold VF Video",
+      "title_id": "SOUL00000",
+      "region": "EUR",
+      "version": "1.00",
+      "release": "18-11-2014",
+      "size": 4369743872,
+      "min_fw": "9.00",
+      "cover_url": ""
+    }
+  }
+}

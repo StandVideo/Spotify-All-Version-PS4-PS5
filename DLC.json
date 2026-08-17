@@ -1,0 +1,894 @@
+{
+  "DATA": {
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Sonic%20Origins%20Classic%20Music%20Pack%20CUSA30448_v1.00.pkg": {
+      "title_id": "CUSA30448",
+      "region": "EUR",
+      "name": "Sonic Origins Classic Music Pack",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 246415360,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Sonic%20Origins%20Plus%20Content%20Pack%20CUSA30448_v1.00.pkg": {
+      "title_id": "CUSA30448",
+      "region": "EUR",
+      "name": "Sonic Origins Plus Content Pack",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 30670848,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+     "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Streets%20of%20Rage%204%20Mr.X%20Nightmare%20CUSA16237_v1.00.pkg": {
+      "title_id": "CUSA16237",
+      "region": "EUR",
+      "name": "Streets Of Rage 4 Mr.X Nightmare",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Uno%20Just%20Dance%202017%20CUSA04071_v1.00%20DLC.pkg": {
+      "title_id": "CUSA04071",
+      "region": "EUR",
+      "name": "Uno Just Dance 2017",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1572864,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Uno%20Rayman%20CUSA04071_v1.00%20DLC.pkg": {
+      "title_id": "CUSA04071",
+      "region": "EUR",
+      "name": "Uno Rayman",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1572864,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Uno%20Winter%20CUSA04071_v1.00%20DLC.pkg": {
+      "title_id": "CUSA04071",
+      "region": "EUR",
+      "name": "Uno Winter",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Uno%20Flip%20CUSA04071_v1.00%20DLC.pkg": {
+      "title_id": "CUSA04071",
+      "region": "EUR",
+      "name": "Uno Flip",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Monopoly%20Family%20Fun%20Pack%20My%20Little%20Pony%20CUSA01317_v1.00%20DLC.pkg": {
+      "title_id": "CUSA01317",
+      "region": "EUR",
+      "name": "Monopoly Familly Fun Pack My Little Pony",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 19595264,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Monopoly%20Family%20Fun%20Pack%20Just%20Dance%202015%20CUSA01317_v1.00%20DLC.pkg": {
+      "title_id": "CUSA01317",
+      "region": "EUR",
+      "name": "Monopoly Familly Fun Pack Just Dance 2015",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 16515072,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20DLC2%20Mod%20CUSA00265_v1.95%20CUSTOM00000SKINS.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Mod 2 v1.95",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 21299200,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20DLC%20MOD%20CUSA00265_v1.95%20KSP0000000001234.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Mod v1.95",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 5111808,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Texture%20Candy%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Texture Candy",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Texture%20Cartoon%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Texture Cartoon",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Texture%20City%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Texture City",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Texture%20Fantasy%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Texture Fantasy",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Texture%20Halloween%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Texture Halloween",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Texture%20Natural%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Texture Natural",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Texture%20Pattern%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Texture Pattern",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Texture%20Plastic%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Texture Plastic",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Texture%20Steampunk%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Texture Steampunk",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Texture%20Super%20Cute%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Texture Super Cute",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%201st%20Birthday%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin 1st Birthday",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%202nd%20Birthday%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin 2nd Birthday",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%203rd%20Birthday%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin 3rd Birthday",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%204th%20Birthday%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin 4th Birthday",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Battle%20%26%20Beasts%201%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Battle & Beasts 1",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Battle%20%26%20Beasts%202%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Battle & Beasts 2",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Biome%20Settlers%201%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Biome Settlers 1",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Biome%20Settlers%202%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Biome Settlers 2",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Biome%20Settlers%203%20Strangers%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Biome Settlers 3 Strangers",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Campfire%20Tales%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Campfire Tales",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Classic%20Pack%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Classic Pack",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Doctor%20Who%201%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Doctor Who 1",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Doctor%20Who%202%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Doctor Who 2",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Festive%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Festive",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Final%20Fantasy%20XV%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Final Fantasy XV",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20From%20The%20Shadows%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin From The Shadows",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Magic%20The%20Gathering%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Magic The Gathering",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Minecon%202015%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Minecon 2015",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Minecon%202016%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Minecon 2016",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Minecon%202017%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Minecon 2017",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Mini%20Game%20Heroes%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Mini Game Heroes",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Mini%20Game%20Masters%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Mini Game Masters",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Moana%20Character%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Moana Character",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Pack%201%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Pack 1",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Pack%202%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Pack 2",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Pack%203%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Pack 3",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Power%20Rangers%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Power Rangers",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Redstine%20Specialists%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Redstine Specialists",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Star%20Wars%20Classic%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Star Wars Classic",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Star%20Wars%20Prequel%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Star Wars Prequel",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Star%20Wars%20Rebels%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Star Wars Rebels",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Star%20Wars%20Sequel%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Star Wars Sequel",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Star%20Wars%20Story%20Solo%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Star Wars Story Solo",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Story%20Mode%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Story Mode",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Stranger%20Things%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Stranger Things",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20The%20Incredibles%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin The Incredibles",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20The%20Simpsons%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin The Simpsons",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Skin%20Villains%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Skin Villains",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Battle%20Glide%20Beasts%20Track%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Battle Glide Beasts Track",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Battle%20Glide%20Giants%20Track%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Battle Glide Giants Track",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Battle%20Glide%20Myths%20Track%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Battle Glide Myths Track",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Battle%20Map%20Fallout%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Battle Map Fallout",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Battle%20Map%20Festive%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Battle Map Festive",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Battle%20Map%20Halloween%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Battle Map Halloween",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Battle%20Map%20Pack%201%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Battle Map Pack 1",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Battle%20Map%20Pack%202%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Battle Map Pack 2",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Battle%20Map%20Pack%203%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Battle Map Pack 3",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Battle%20Map%20Pack%204%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Battle Map Pack 4",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Mash-Up%20Egyptian%20Mythology%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Mash-Up Egyptian Mythology",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Mash-Up%20Fallout%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Mash-Up Fallout",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Mash-Up%20Festive%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Mash-Up Festive",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Mash-Up%20Greek%20Mythology%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Mash-Up Greek Mythology",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Mash-Up%20Halloween%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Mash-Up Halloween",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Mash-Up%20Little%20Big%20Planet%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Mash-Up Little Big Planet",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Mash-Up%20Mass%20Effect%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Mash-Up Mass Effect",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Mash-Up%20Norse%20Mythology%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Mash-Up Norse Mythology",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Mash-Up%20Pirates%20Of%20The%20Caribbean%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Mash-Up Pirates Of The Caribbean",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Mash-Up%20Skyrim%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Mash-Up Skyrim",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Mash-Up%20Steven%20Universe%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Mash-Up Steven Universe",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Mash-Up%20The%20Nightmare%20Before%20Christmas%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Mash-Up The Nightmare Before Christmas",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Mash-Up%20Toy%20Story%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Mash-Up Toy Story",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Mash-Up%20Adventure%20Time%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Mash-Up Adventure Time",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://ia600405.us.archive.org/3/items/stand75019_20260514/PS4_Minecraft%20Mash-Up%20Chinese%20Mythology%20CUSA00265_v1.00%20DLC.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "Minecraft Mash-Up Chinese Mythology",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": ""
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-r/Rock%20Band%204%20Expansion%20Pack%201.pkg": {
+      "title_id": "CUSA02084",
+      "region": "USA",
+      "name": "Rock Band Expansion Pack 1",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 20590559232,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02084.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-r/Rock%20Band%204%20Expansion%20Pack%202.pkg": {
+      "title_id": "CUSA02084",
+      "region": "USA",
+      "name": "Rock Band Expansion Pack 2",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 20640694272,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02084.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-r/Rock%20Band%204%20Expansion%20Pack%203.pkg": {
+      "title_id": "CUSA02084",
+      "region": "USA",
+      "name": "Rock Band Expansion Pack 3",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 20640956416,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02084.png"
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-r/Rock%20Band%204%20Expansion%20Pack%204.pkg": {
+      "title_id": "CUSA02084",
+      "region": "USA",
+      "name": "Rock Band Expansion Pack 4",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 20620115968,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA02084.png"
+    },
+	"https://archive.org/download/ps4-fpkg-collection-english-t/TowerFall%20Dark%20World%20Expansion.pkg": {
+      "title_id": "CUSA00466",
+      "region": "USA",
+      "name": "TowerFall Dark World Expansion",
+      "version": "",
+      "release": "11-15-2013",
+      "size": 1048576,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00466.png"
+    }
+  }
+}
